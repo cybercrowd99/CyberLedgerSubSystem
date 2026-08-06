@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Continuity Validator
- *
+ * 
  * File:
  * src/continuity-validator.ts
  *
