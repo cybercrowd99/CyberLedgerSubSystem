@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Result
- *
+ * 
  * File:
  * src/ledger-result.ts
  *
