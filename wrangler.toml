@@ -1,0 +1,3 @@
+name = "cyberledger-subsystem"
+main = "src/index.ts"
+compatibility_date = "2026-08-06"
