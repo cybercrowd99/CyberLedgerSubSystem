@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Traversal
- *
+ * 
  * File:
  * src/ledger-traversal.ts
  *
