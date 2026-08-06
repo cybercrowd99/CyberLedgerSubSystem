@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Manager
- *
+ * 
  * File:
  * src/ledger-manager.ts
  *
