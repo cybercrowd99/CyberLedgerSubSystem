@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Evidence Record
- *
+ * 
  * File:
  * src/evidence-record.ts
  *
