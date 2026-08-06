@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Discovery
- *
+ * 
  * File:
  * src/ledger-discovery.ts
  *
