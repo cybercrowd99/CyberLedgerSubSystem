@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Search
- *
+ * 
  * File:
  * src/ledger-search.ts
  *
