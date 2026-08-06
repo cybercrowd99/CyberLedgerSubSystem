@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Discovery Index
- *
+ * 
  * File:
  * src/ledger-discovery-index.ts
  *
