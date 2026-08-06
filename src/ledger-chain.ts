@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Chain
- *
+ * 
  * File:
  * src/ledger-chain.ts
  *
