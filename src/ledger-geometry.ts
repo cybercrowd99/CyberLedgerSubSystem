@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Geometry
- *
+ * 
  * File:
  * src/ledger-geometry.ts
  *
