@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Response
- *
+ * 
  * File:
  * src/ledger-response.ts
  *
