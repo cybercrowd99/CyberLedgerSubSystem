@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Boundary
- *
+ * 
  * File:
  * src/ledger-boundary.ts
  *
