@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Engine
- *
+ * 
  * File:
  * src/ledger-engine.ts
  *
