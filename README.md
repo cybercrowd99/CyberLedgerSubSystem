@@ -346,3 +346,4 @@ Structure ≠ Person
 Analytics ≠ Surveillance
 
 Observation ≠ Authority
+ 
