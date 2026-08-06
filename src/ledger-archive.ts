@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Archive
- *
+ * 
  * File:
  * src/ledger-archive.ts
  *
