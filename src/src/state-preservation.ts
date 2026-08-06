@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Historical State Preservation Layer
- *
+ * 
  * File:
  * src/state-preservation.ts
  *
