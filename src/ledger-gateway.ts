@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Gateway
- *
+ * 
  * File:
  * src/ledger-gateway.ts
  *
