@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Snapshot
- *
+ * 
  * File:
  * src/ledger-snapshot.ts
  *
