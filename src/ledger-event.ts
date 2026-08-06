@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Event
- *
+ * 
  * File:
  * src/ledger-event.ts
  *
