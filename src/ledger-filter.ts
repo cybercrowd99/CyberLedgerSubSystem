@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Filter
- *
+ * 
  * File:
  * src/ledger-filter.ts
  *
