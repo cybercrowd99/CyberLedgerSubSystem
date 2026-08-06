@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Index
- *
+ * 
  * File:
  * src/ledger-index.ts
  *
