@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Navigation
- *
+ * 
  * File:
  * src/ledger-navigation.ts
  *
