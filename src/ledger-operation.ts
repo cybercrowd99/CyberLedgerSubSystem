@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Operation
- *
+ * 
  * File:
  * src/ledger-operation.ts
  *
