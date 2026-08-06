@@ -1,6 +1,6 @@
 /**
  * CyberCrowd Ledger Query
- *
+ * 
  * File:
  * src/ledger-query.ts
  *
