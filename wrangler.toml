@@ -1,4 +1,22 @@
-name = "cyberledger-subsystem"
+name = "cyberledgersubsystem"
 main = "src/index.ts"
-compatibility_date = "2026-08-06"
+compatibility_date = "2024-09-01"
 
+[build]
+command = "npm run build"
+
+[observability]
+enabled = true
+
+[triggers]
+crons = [ ]
+
+[vars]
+
+[kv_namespaces]
+
+[r2_buckets]
+
+[d1_databases]
+
+[ai]
